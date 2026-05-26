@@ -23,4 +23,30 @@ _▄▄
            _█     █_
           ▀▀▀     ▀▀▀
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 emulator systemu operacyjnego, nastepny update bedzie wielki
